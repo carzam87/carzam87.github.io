@@ -1,6 +1,6 @@
 # Carlos Zambrana
 
-Software Engineer || Reactjs & Django Lover || Laravel & Vuejs Professional || WordPress Nerd || AI, ML Enthusiast
+Software Engineer \| Reactjs & Django Lover \| Laravel & Vuejs Professional \| WordPress Nerd \| AI, ML Enthusiast
 
 <br>
 
